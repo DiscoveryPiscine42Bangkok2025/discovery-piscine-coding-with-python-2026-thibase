@@ -1,4 +1,4 @@
-first_name = "Thibase"   # เปลี่ยนตรงนี้เป็นชื่อจริงภาษาอังกฤษของคุณ
-last_name = "Kanwongsa"   # เปลี่ยนตรงนี้เป็นนามสกุลจริงภาษาอังกฤษของคุณ
+first_name = "Thibase"  
+last_name = "Kanwongsa"   
 
 print(first_name, last_name,42)
