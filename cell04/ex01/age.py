@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# รับค่าและแปลงเป็นตัวเลขทันที
+age = int(input("Please tell me your age: "))
+
+# แสดงผลอายุปัจจุบัน
+print("You are currently " + str(age) + " years old.")
+
+# คำนวณและแสดงผลอนาคต (ต้องแปลงกลับเป็น str เพื่อเอามาต่อกับข้อความ)
+print("In 10 years, you'll be " + str(age + 10) + " years old.")
+print("In 20 years, you'll be " + str(age + 20) + " years old.")
+print("In 30 years, you'll be " + str(age + 30) + " years old.")
